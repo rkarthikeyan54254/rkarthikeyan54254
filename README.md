@@ -12,7 +12,7 @@ I am an engineering leader turning bold ideas into reality.
   *  [Vamsha](https://vamsha.co.in) - Uncover the connections behind India's most powerful names
   *  [Abhivadhaye](https://abhivadhaye.in) - Honor Your Sacred Lineage. Connect with Your Vedic Roots
   *  [Akilakarthikeyan](https://akilakarthikeyan.com) - A complete collection of tamil author's (Akila Karthikeyan) stories and books
-  *  [MovieSelectPrime](Https://movieselectprime.netlify.app) - Less time selecting - More time watching. Let us pick a movie for you!
+  *  [FlickPick](Https://justflickpick.netlify.app) - Less time selecting - More time watching. Let us pick a movie for you!
 
       
 
