@@ -10,15 +10,15 @@ I am an engineering leader turning bold ideas into reality.
 
  🏛️ **Genealogical Systems & Vedic Heritage**
  
-  *  [Vamsha](https://vamsha.co.in) - Uncover the connections behind India's most powerful names
-  *  [Abhivadhaye](https://abhivadhaye.in) - Honor Your Sacred Lineage. Connect with Your Vedic Roots
+  *  [Vamsha](https://vamsha.co.in) - Mapping complex genealogical networks and professional relationships of 500+ historical and contemporary figures across India'sentertainment and political landscapes.
+  *  [Abhivadhaye](https://abhivadhaye.in) - Bridging millennial-old ancestral wisdom with modern technology, enabling users to reclaim their heritage through accurate lineage salutations
     
  📚 **Content Platforms & Digital Archives**
 
-  *  [Akilakarthikeyan](https://akilakarthikeyan.com) - A complete collection of tamil author's (Akila Karthikeyan) stories and books
+  *  [Akilakarthikeyan](https://akilakarthikeyan.com) -  A high-performance digital repository for Tamil literature, featuring humorous and spiritual short stories, audio narrations, and books.
 
 🎬 **Entertainment Discovery Engines**
-  *  [FlickPick](Https://justflickpick.netlify.app) - Curated cinema, delivered with a click!
+  *  [FlickPick](Https://justflickpick.netlify.app) - Ending the "endless scroll" by curating high-fidelity cinema from Netflix, Prime Video, and Zee5 into a single, high-impact "Spotlight" experience
 
       
 
