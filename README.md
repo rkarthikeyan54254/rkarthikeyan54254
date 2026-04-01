@@ -10,7 +10,7 @@ I am an engineering leader turning bold ideas into reality.
 
  🏛️ **Genealogical Systems & Vedic Heritage**
  
-  *  [Vamsha](https://vamsha.co.in) - Mapping complex genealogical networks and professional relationships of 500+ historical and contemporary figures across India'sentertainment and political landscapes.
+  *  [Vamsha](https://vamsha.co.in) - Mapping complex genealogical networks and professional relationships of 500+ historical and contemporary figures across India's history and political landscapes.
   *  [Abhivadhaye](https://abhivadhaye.in) - Bridging millennial-old ancestral wisdom with modern technology, enabling users to reclaim their heritage through accurate lineage salutations
     
  📚 **Content Platforms & Digital Archives**
