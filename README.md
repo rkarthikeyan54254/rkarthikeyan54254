@@ -20,7 +20,8 @@ I am an engineering leader turning bold ideas into reality.
 🎬 **Entertainment Discovery Engines**
   *  [FlickPick](Https://justflickpick.netlify.app) - Ending the "endless scroll" by curating high-fidelity cinema from Netflix, Prime Video, and Zee5 into a single, high-impact "Spotlight" experience
 
-      
+ **Fashion**
+ 🔴 *  [FlickPick](Https://bindhifyme.in) - Virtual try-on for bindi & tilak styles — upload a photo or use live AR camera. Built with MediaPipe + React.
 
 
 ### Socials
