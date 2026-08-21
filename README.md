@@ -12,6 +12,7 @@ I am an engineering leader turning bold ideas into reality.
  
   *  [Vamsha](https://vamsha.co.in) - Mapping complex genealogical networks and professional relationships of 500+ historical and contemporary figures across India's history and political landscapes.
   *  [Abhivadhaye](https://abhivadhaye.in) - Bridging millennial-old ancestral wisdom with modern technology, enabling users to reclaim their heritage through accurate lineage salutations
+  *  [நல்நாள் · NalNaal](https://nalnaal.netlify.app) - A reverent Tamil daily panchangam — presenting each day's nakshatram, tithi, festivals, and a presiding deity, rooted in the traditional Pambu Panchangam.
     
  📚 **Content Platforms & Digital Archives**
 
