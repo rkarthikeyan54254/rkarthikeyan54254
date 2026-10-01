@@ -36,7 +36,6 @@ I am an engineering leader who enjoys turning ambitious ideas into dependable pr
 
 - **[GenAI Digest](https://gen-ai-digest.netlify.app/)** · [GitHub](https://github.com/rkarthikeyan54254/gen-ai-digest) — An AI-news aggregator that experiments with generation-aware curation, tailoring artificial-intelligence news and context for Gen Z, Millennials, Gen X and Boomers.
 
-- **[Gruhapravesam Invite](https://github.com/rkarthikeyan54254/gruhapravesam-invite)** — A mobile-first digital Hindu housewarming invitation with devotional visual design, countdown, RSVP, maps and calendar integration.
 
 ## 🧭 How I like to build
 
